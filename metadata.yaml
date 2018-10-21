@@ -1,5 +1,5 @@
 _repo: Cinq-Mars-Volume-6_3952
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'Cinq-Mars, Henri Coiffier Ruzé d''Effiat, marquis de, 1620-1642 -- Fiction'
 - !lcsh 'Richelieu, Armand Jean du Plessis, duc de, 1585-1642 -- Fiction'
+- GITenberg
 title: Cinq Mars — Volume 6
 url: http://www.gutenberg.org/ebooks/3952
